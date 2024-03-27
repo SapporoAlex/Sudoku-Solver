@@ -2,7 +2,7 @@
 
 This is a simple Sudoku solver implemented in Python using the Tkinter library for the graphical user interface (GUI). The solver uses a recursive backtracking algorithm to find the solution to a given Sudoku puzzle.
 
-<img src="preview.gif">"
+<img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png">
 
 ## Getting Started
 
