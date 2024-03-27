@@ -2,7 +2,7 @@
 
 This is a simple Sudoku solver implemented in Python using the Tkinter library for the graphical user interface (GUI). The solver uses a recursive backtracking algorithm to find the solution to a given Sudoku puzzle.
 
-<img src=""
+<img src="preview.gif">"
 
 ## Getting Started
 
@@ -17,9 +17,8 @@ To run the Sudoku Solver, you need to have Python installed on your system. The 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/sudoku-solver.git
+git clone https://github.com/SapporoAlex/Sudoku-Solver.git
 ```
-
 
 ### Usage
 
